@@ -19,6 +19,7 @@
 
 	"predef": [
 		"define",
-		"jQuery"
+		"jQuery",
+		"module"
 	]
 }

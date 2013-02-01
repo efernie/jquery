@@ -1,2 +1,5 @@
 
+  return jQuery;
 })( window );
+
+}));
